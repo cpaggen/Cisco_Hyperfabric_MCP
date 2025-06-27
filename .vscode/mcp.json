@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "Hyperfabric_MCP": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "C:\\OPENAPI_MCP\\main.py"
+      ]
+    },
+   }
+}
